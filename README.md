@@ -2,7 +2,7 @@
 
 ### AI & Automation Engineer
 
-**AI Engineering · Computer Vision · Intelligent Automation · Agentic Systems**
+**AI Engineering · Intelligent Automation · Agentic Systems · Computer Vision**
 
 <p align="left">
   <a href="https://github.com/MosMotov">
@@ -12,7 +12,7 @@
 
 I design and build **production-oriented AI, computer vision, and automation systems** that connect intelligent models with real-world software and business workflows.
 
-With **3+ years of hands-on experience**, I work across **Python automation, RPA, Computer Vision / Deep Learning, LLM/VLM applications, and system integration** — from prototyping and model development to deployment and enterprise automation.
+With **5+ years of hands-on experience**, I work across **Python automation, RPA, Computer Vision / Deep Learning, LLM/VLM applications, and system integration** — from prototyping and model development to deployment and enterprise automation.
 
 > **Building intelligent systems that automate work, augment decisions, and integrate reliably with real-world software.**
 
