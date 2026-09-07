@@ -1,4 +1,8 @@
-# 👋 Hey, I'm Mos
+# Pornchai Pattamadilok
+
+### AI & Automation Engineer
+
+**AI Engineering · Computer Vision · Intelligent Automation · Agentic Systems**
 
 <p align="left">
   <a href="https://github.com/MosMotov">
@@ -6,13 +10,11 @@
   </a>
 </p>
 
-### AI & Automation Developer
+I design and build **production-oriented AI, computer vision, and automation systems** that connect intelligent models with real-world software and business workflows.
 
-I build **AI-powered software, automation systems, developer tools, and experiments** around the intersection of AI and software engineering.
+With **3+ years of hands-on experience**, I work across **Python automation, RPA, Computer Vision / Deep Learning, LLM/VLM applications, and system integration** — from prototyping and model development to deployment and enterprise automation.
 
-My current obsession:
-
-> **Making software that can do more of the work itself.**
+> **Building intelligent systems that automate work, augment decisions, and integrate reliably with real-world software.**
 
 ---
 
@@ -20,12 +22,12 @@ My current obsession:
 
 | Area | Focus |
 |---|---|
-| 🤖 AI Agents | Agent orchestration, coding agents, multi-agent systems |
-| ⚡ Automation | RPA, workflow automation, browser automation |
-| 🧠 AI Engineering | LLM applications, AI-assisted software |
-| 👁️ Computer Vision | OCR, object detection, image classification |
-| 🔧 Backend | APIs, services, integrations and automation platforms |
-| ☁️ Cloud | Azure, CI/CD and cloud-based automation |
+| 🤖 AI Agents | Agent orchestration, coding agents, multi-agent systems, tool use |
+| ⚡ Automation | Python automation, RPA, workflow automation, browser automation |
+| 🧠 AI Engineering | LLM/VLM applications, local models, AI-assisted software |
+| 👁️ Computer Vision | OCR, classification, detection, segmentation, visual inspection |
+| 🔧 Backend | REST APIs, services, integrations, automation platforms |
+| ☁️ Cloud & Data | Azure, CI/CD, data pipelines, cloud-based automation |
 
 ---
 
@@ -37,13 +39,17 @@ My current obsession:
 
 </p>
 
-### AI / Automation
+### AI / ML
 
-`OpenAI` · `LLMs` · `AI Agents` · `UiPath` · `Selenium` · `Playwright`
+`LLMs` · `VLMs` · `AI Agents` · `OpenCV` · `TensorFlow` · `Keras` · `scikit-learn` · `OCR` · `Object Detection` · `Image Segmentation`
 
-### Data / Vision
+### Automation
 
-`OpenCV` · `OCR` · `Pandas` · `YOLO` · `Computer Vision`
+`Python` · `UiPath` · `Kofax RPA` · `Playwright` · `Selenium` · `Browser Automation`
+
+### Backend / Data
+
+`Flask` · `Django` · `REST APIs` · `SQL` · `Pandas` · `NumPy` · `Docker` · `Azure`
 
 ---
 
@@ -86,38 +92,49 @@ toward:
 
 ---
 
-### 🚗 Computer Vision
+### 👁️ Computer Vision & Deep Learning
 
-Exploring AI systems capable of understanding vehicles from images.
+Building and deploying vision systems for **recognition, inspection, OCR, detection, classification, segmentation, and real-time decision-making** across enterprise and automation use cases.
 
 Some examples of the capabilities I work with include:
 
-- Vehicle brand recognition
-- Vehicle model classification
-- Vehicle color detection
-- License plate detection
-- Thai license plate OCR
-- Damage / visual inspection
+- OCR and document / image understanding
+- Image classification
+- Object detection and localization
+- Image segmentation
+- Visual inspection and defect detection
+- Vehicle recognition and license plate OCR
+- Real-time Computer Vision for robotics and automated systems
 
 ---
 
 ### ⚙️ Automation Engineering
 
-Building integrations between:
+Building end-to-end automation that connects **Python, RPA, APIs, AI models, browser applications, legacy systems, and business platforms**.
 
 ```text
-APIs
- ↓
+APIs / Data
+     ↓
 Automation
- ↓
-AI
- ↓
-Business Systems
- ↓
-Human
+     ↓
+AI / Document AI
+     ↓
+Business & Legacy Systems
+     ↓
+Human-in-the-loop
 ```
 
-with the goal of removing repetitive manual workflows while keeping humans in control of important decisions.
+The goal is to remove repetitive manual work while keeping systems reliable, observable, and humans in control where judgment matters.
+
+---
+
+## 🏗️ Engineering Highlights
+
+- **Production AI:** Developed and deployed Computer Vision and Deep Learning solutions for OCR, image classification, object detection, and image segmentation.
+- **LLM / VLM systems:** Worked with local LLM/VLM infrastructure and integrated Generative AI APIs into existing software workflows.
+- **Enterprise automation:** Built Python, UiPath, and Kofax RPA workflows spanning REST APIs, browser applications, data platforms, and legacy systems.
+- **Applied AI impact:** Delivered a Deep Learning inspection solution that reduced inspection time by **90%** while improving the quality-control workflow.
+- **Innovation:** Award winner at an internal corporate hackathon for an AI application project.
 
 ---
 
