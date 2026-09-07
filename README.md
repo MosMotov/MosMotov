@@ -49,26 +49,32 @@ My current obsession:
 
 ## 🚀 Featured Work
 
-### 🤖 AI Agent Workspace
+### 🤖 AI Agent Architectures
 
-Exploring a visual environment where multiple AI agents can work together as a software engineering team.
+Exploring different ways AI agents can be structured, coordinated, and evaluated depending on the task.
 
-The concept includes:
+Five common agent patterns I’m interested in:
 
 ```text
-                  ┌───────────────┐
-                  │   Main Agent  │
-                  │    Planner    │
-                  └───────┬───────┘
-                          │
-              ┌───────────┼───────────┐
-              ▼           ▼           ▼
-         Developer       QA        Research
-              │           │           │
-              └───────────┼───────────┘
-                          ▼
-                     Final Result
+1. Prompt Chaining
+   Agent A → Agent B → Agent C
+
+2. Routing
+   Input → Router → Specialist Agent
+
+3. Parallelization
+             ┌→ Agent A ─┐
+   Input ────┼→ Agent B ─┼→ Merge
+             └→ Agent C ─┘
+
+4. Orchestrator–Workers
+   Goal → Orchestrator → Specialized Workers → Synthesis
+
+5. Evaluator–Optimizer
+   Generate → Evaluate → Improve ↺ → Final Result
 ```
+
+Rather than treating one architecture as the answer, I’m interested in how these patterns can be selected or combined to build more capable agentic systems.
 
 The goal is to move beyond:
 
@@ -84,7 +90,7 @@ toward:
 
 Exploring AI systems capable of understanding vehicles from images.
 
-Potential capabilities include:
+Some examples of the capabilities I work with include:
 
 - Vehicle brand recognition
 - Vehicle model classification
